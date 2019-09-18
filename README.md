@@ -1,4 +1,14 @@
-# Deepcut
+# deepcut_shrink_model
+This repository is the improvement of Thai word tokenization library, Deepcut, to make it faster.
+
+# To use
+Create environment DEEPCUT_SHRINK_MODEL = True
+For example, in Python
+
+import os
+os.environ["DEEPCUT_SHINKED_MODEL"] = "True"
+
+
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/rkcosmos/deepcut/blob/master/LICENSE)
 
